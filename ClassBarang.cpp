@@ -20,7 +20,9 @@ public :
 int main(){
     Barang Elektronik;
     Elektronik.nama = "Playstation";
-   
+    Elektronik.jumlah = 50;
+    
+
 
     mhs.printdata();
 }
