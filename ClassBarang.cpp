@@ -22,8 +22,14 @@ int main(){
     Elektronik.nama = "Playstation";
     Elektronik.jumlah = 50;
     Elektronik.kategori = "Hiburan";
+    Elektronik.TanggalProduksi = "20 Januari 2023";
+
+    Barang Nonelelektronik;
+    Nonelelektronik.nama = "Kursi Gaming";
+    Nonelelektronik.jumlah = 50;
+    Nonelelektronik.kategori = "Hiburan";
+    Nonelelektronik.TanggalProduksi = "10 Januari 2018";
+
+
     
-
-
-    mhs.printdata();
 }
