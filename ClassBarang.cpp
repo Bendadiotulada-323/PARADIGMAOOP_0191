@@ -31,5 +31,6 @@ int main(){
     Nonelelektronik.TanggalProduksi = "10 Januari 2018";
 
 
-    
+    Elektronik.printdata();
+    Nonelelektronik.printdata();
 }
