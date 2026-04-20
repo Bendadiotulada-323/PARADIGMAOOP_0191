@@ -21,6 +21,7 @@ int main(){
     Barang Elektronik;
     Elektronik.nama = "Playstation";
     Elektronik.jumlah = 50;
+    Elektronik.kategori = "Hiburan";
     
 
 
