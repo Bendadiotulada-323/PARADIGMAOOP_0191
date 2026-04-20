@@ -22,3 +22,11 @@ int main(){
 
     mhs.printdata();
 }
+
+class barang{
+public :
+    string nama;
+    int jumlah;
+    string kategori;
+    string TanggalProduksi;
+}
