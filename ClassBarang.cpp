@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class barang{
+class Barang{
 public :
     string nama;
     int jumlah;
@@ -14,6 +14,13 @@ public :
         cout << "JUMLAH : " << jumlah << endl;
         cout << "KATEGORI : " << kategori << endl;
         cout << "TANGGAL PRODUKSI : " << TanggalProduksi << endl;
-    }
-    
+    }  
+}; //Batas Class
+
+int main(){
+    Barang Elektronik;
+    Elektronik.nama = "Playstation";
+   
+
+    mhs.printdata();
 }
